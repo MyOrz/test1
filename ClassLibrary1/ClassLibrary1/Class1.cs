@@ -7,5 +7,7 @@ namespace ClassLibrary1
 {
     public class Class1
     {
+        //木有木有
+        Console.ReadLine();
     }
 }
